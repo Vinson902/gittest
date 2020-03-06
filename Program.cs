@@ -6,7 +6,7 @@ namespace gittest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello dotnet!!!!");
+            Console.WriteLine("Hello World!");
         }
     }
 }
